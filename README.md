@@ -33,7 +33,7 @@ To run both servers using Docker, follow these steps:
   This command builds Docker images and starts all containers defined in `docker-compose.yml`.
 
 - The FastAPI server runs on port `8000`.
-- The Node.js server runs on port `3000`.
+- The Node.js server runs on port `8001`.
 
 ## API Routes
 
